@@ -1,4 +1,9 @@
 {
   "name": "MedicamentosApp",
-  "displayName": "MedicamentosApp"
+  "displayName": "MedicamentosApp",
+  "extra": {
+    "eas": {
+      "projectId": "79fef906-94dc-4c6d-a0f2-03f5fd51ea46"
+    }
+  }
 }
